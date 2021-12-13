@@ -15,7 +15,7 @@ const cosas = [
     {id: 14, nombre: 'Arena Kinética', aclaracion:'Por que?...porque no?', enlace:''},
     {id: 15, nombre: 'Cualquier Juego de Mesa', aclaracion:'', enlace:''},
     {id: 16, nombre: 'Etiquetas NFC', aclaracion:'Super utiles', enlace:'https://listado.mercadolibre.com.ar/etiquetas-nfc#D[A:etiquetas%20nfc]'},
-    {id: 17, nombre: '', aclaracion:'', enlace:''},
+    {id: 17, nombre: 'Bola de Entrenamiento', aclaracion:'de pool', enlace:'https://listado.mercadolibre.com.ar/bola-pool-puntos#D[A:bola%20pool%20puntos]'},
     {id: 18, nombre: '', aclaracion:'', enlace:''},
     {id: 19, nombre: '', aclaracion:'', enlace:''},
     {id: 20, nombre: '', aclaracion:'', enlace:''},
