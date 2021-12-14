@@ -16,7 +16,7 @@ const cosas = [
     {id: 15, nombre: 'Cualquier Juego de Mesa', aclaracion:'', enlace:''},
     {id: 16, nombre: 'Etiquetas NFC', aclaracion:'Super utiles', enlace:'https://listado.mercadolibre.com.ar/etiquetas-nfc#D[A:etiquetas%20nfc]'},
     {id: 17, nombre: 'Bola de Entrenamiento', aclaracion:'de pool', enlace:'https://listado.mercadolibre.com.ar/bola-pool-puntos#D[A:bola%20pool%20puntos]'},
-    {id: 18, nombre: '', aclaracion:'', enlace:''},
+    {id: 18, nombre: 'El Anillo Unico', aclaracion:'', enlace:'https://articulo.mercadolibre.com.ar/MLA-765255098-anillo-unico-frodo-bilbo-gollum-senor-de-los-anillos-lotr-_JM?searchVariation=61894068654#searchVariation=61894068654&position=1&search_layout=grid&type=item&tracking_id=eaf0f4bb-fbf3-43ea-8a2b-70b11701b20e'},
     {id: 19, nombre: '', aclaracion:'', enlace:''},
     {id: 20, nombre: '', aclaracion:'', enlace:''},
     {id: 21, nombre: '', aclaracion:'', enlace:''},
